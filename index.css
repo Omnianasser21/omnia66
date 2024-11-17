@@ -1,0 +1,17 @@
+.item h1{
+    font-family: Impact;
+    font-size: 80px;
+}
+.item p{
+    font-size: 35px;
+}
+.oni{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+
+}
+.oni:hover{
+    background-color: green;
+}
